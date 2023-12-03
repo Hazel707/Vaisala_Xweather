@@ -1,0 +1,1246 @@
+{
+  "readings": {
+    "1690213657": {
+      "humidity": "38.98",
+      "pressure": "1013.28",
+      "temperature": "23.89",
+      "timestamp": "1690213657"
+    },
+    "1690213727": {
+      "humidity": "39.28",
+      "pressure": "1013.33",
+      "temperature": "23.74",
+      "timestamp": "1690213727"
+    },
+    "1690213788": {
+      "humidity": "39.65",
+      "pressure": "1013.34",
+      "temperature": "23.65",
+      "timestamp": "1690213788"
+    },
+    "1690213852": {
+      "humidity": "40.06",
+      "pressure": "1013.33",
+      "temperature": "23.56",
+      "timestamp": "1690213852"
+    },
+    "1690213914": {
+      "humidity": "40.42",
+      "pressure": "1013.33",
+      "temperature": "23.49",
+      "timestamp": "1690213914"
+    },
+    "1690213977": {
+      "humidity": "40.83",
+      "pressure": "1013.30",
+      "temperature": "23.43",
+      "timestamp": "1690213977"
+    },
+    "1690214076": {
+      "humidity": "41.39",
+      "pressure": "1013.27",
+      "temperature": "23.41",
+      "timestamp": "1690214076"
+    },
+    "1690214231": {
+      "humidity": "42.09",
+      "pressure": "1013.38",
+      "temperature": "23.59",
+      "timestamp": "1690214231"
+    },
+    "1690214293": {
+      "humidity": "42.39",
+      "pressure": "1013.40",
+      "temperature": "23.59",
+      "timestamp": "1690214293"
+    },
+    "1690215048": {
+      "humidity": "44.65",
+      "pressure": "1013.58",
+      "temperature": "23.91",
+      "timestamp": "1690215048"
+    },
+    "1690215116": {
+      "humidity": "44.91",
+      "pressure": "1013.60",
+      "temperature": "23.90",
+      "timestamp": "1690215116"
+    },
+    "1690215179": {
+      "humidity": "48.48",
+      "pressure": "1013.50",
+      "temperature": "23.91",
+      "timestamp": "1690215179"
+    },
+    "1690215241": {
+      "humidity": "46.28",
+      "pressure": "1013.51",
+      "temperature": "23.82",
+      "timestamp": "1690215241"
+    },
+    "1690215302": {
+      "humidity": "45.50",
+      "pressure": "1013.51",
+      "temperature": "23.82",
+      "timestamp": "1690215302"
+    },
+    "1690215363": {
+      "humidity": "53.68",
+      "pressure": "1013.55",
+      "temperature": "24.27",
+      "timestamp": "1690215363"
+    },
+    "1690215425": {
+      "humidity": "49.43",
+      "pressure": "1013.62",
+      "temperature": "24.40",
+      "timestamp": "1690215425"
+    },
+    "1690215487": {
+      "humidity": "47.57",
+      "pressure": "1013.62",
+      "temperature": "24.24",
+      "timestamp": "1690215487"
+    },
+    "1690215547": {
+      "humidity": "47.71",
+      "pressure": "1013.59",
+      "temperature": "24.10",
+      "timestamp": "1690215547"
+    },
+    "1690215608": {
+      "humidity": "47.65",
+      "pressure": "1013.55",
+      "temperature": "24.00",
+      "timestamp": "1690215608"
+    },
+    "1690215669": {
+      "humidity": "47.86",
+      "pressure": "1013.50",
+      "temperature": "23.87",
+      "timestamp": "1690215669"
+    },
+    "1690215730": {
+      "humidity": "48.20",
+      "pressure": "1013.52",
+      "temperature": "23.79",
+      "timestamp": "1690215730"
+    },
+    "1690215793": {
+      "humidity": "48.14",
+      "pressure": "1013.49",
+      "temperature": "23.76",
+      "timestamp": "1690215793"
+    },
+    "1690215854": {
+      "humidity": "48.22",
+      "pressure": "1013.51",
+      "temperature": "23.76",
+      "timestamp": "1690215854"
+    },
+    "1690215915": {
+      "humidity": "48.69",
+      "pressure": "1013.54",
+      "temperature": "23.77",
+      "timestamp": "1690215915"
+    },
+    "1690215978": {
+      "humidity": "49.62",
+      "pressure": "1013.47",
+      "temperature": "23.79",
+      "timestamp": "1690215978"
+    },
+    "1690216040": {
+      "humidity": "49.08",
+      "pressure": "1013.46",
+      "temperature": "23.82",
+      "timestamp": "1690216040"
+    },
+    "1690216102": {
+      "humidity": "48.23",
+      "pressure": "1013.56",
+      "temperature": "23.86",
+      "timestamp": "1690216102"
+    },
+    "1690216567": {
+      "humidity": "46.69",
+      "pressure": "1013.48",
+      "temperature": "24.33",
+      "timestamp": "1690216567"
+    },
+    "1690216819": {
+      "humidity": "46.50",
+      "pressure": "1013.50",
+      "temperature": "24.36",
+      "timestamp": "1690216819"
+    },
+    "1690217332": {
+      "humidity": "46.39",
+      "pressure": "1013.49",
+      "temperature": "24.31",
+      "timestamp": "1690217332"
+    },
+    "1690217412": {
+      "humidity": "46.35",
+      "pressure": "1013.51",
+      "temperature": "24.26",
+      "timestamp": "1690217412"
+    },
+    "1690217472": {
+      "humidity": "46.29",
+      "pressure": "1013.50",
+      "temperature": "24.27",
+      "timestamp": "1690217472"
+    },
+    "1690217544": {
+      "humidity": "46.41",
+      "pressure": "1013.54",
+      "temperature": "24.26",
+      "timestamp": "1690217544"
+    },
+    "1690217619": {
+      "humidity": "46.90",
+      "pressure": "1013.52",
+      "temperature": "24.23",
+      "timestamp": "1690217619"
+    },
+    "1690217680": {
+      "humidity": "46.55",
+      "pressure": "1013.53",
+      "temperature": "24.19",
+      "timestamp": "1690217680"
+    },
+    "1690217741": {
+      "humidity": "46.01",
+      "pressure": "1013.51",
+      "temperature": "24.13",
+      "timestamp": "1690217741"
+    },
+    "1690219487": {
+      "humidity": "43.64",
+      "pressure": "1011.47",
+      "temperature": "26.24",
+      "timestamp": "1690219487"
+    },
+    "1690219551": {
+      "humidity": "40.64",
+      "pressure": "1011.46",
+      "temperature": "26.09",
+      "timestamp": "1690219551"
+    },
+    "1690219613": {
+      "humidity": "39.72",
+      "pressure": "1011.49",
+      "temperature": "25.82",
+      "timestamp": "1690219613"
+    },
+    "1690219676": {
+      "humidity": "39.70",
+      "pressure": "1011.53",
+      "temperature": "25.50",
+      "timestamp": "1690219676"
+    },
+    "1690219743": {
+      "humidity": "39.48",
+      "pressure": "1011.47",
+      "temperature": "25.17",
+      "timestamp": "1690219743"
+    },
+    "1690219804": {
+      "humidity": "39.34",
+      "pressure": "1011.49",
+      "temperature": "24.89",
+      "timestamp": "1690219804"
+    },
+    "1690219955": {
+      "humidity": "39.50",
+      "pressure": "1011.48",
+      "temperature": "24.31",
+      "timestamp": "1690219955"
+    },
+    "1690220015": {
+      "humidity": "39.58",
+      "pressure": "1011.44",
+      "temperature": "24.09",
+      "timestamp": "1690220015"
+    },
+    "1690220076": {
+      "humidity": "39.68",
+      "pressure": "1011.47",
+      "temperature": "23.88",
+      "timestamp": "1690220076"
+    },
+    "1690220137": {
+      "humidity": "39.84",
+      "pressure": "1011.50",
+      "temperature": "23.67",
+      "timestamp": "1690220137"
+    },
+    "1690220198": {
+      "humidity": "40.03",
+      "pressure": "1011.53",
+      "temperature": "23.49",
+      "timestamp": "1690220198"
+    },
+    "1690220259": {
+      "humidity": "40.21",
+      "pressure": "1011.52",
+      "temperature": "23.33",
+      "timestamp": "1690220259"
+    },
+    "1690220319": {
+      "humidity": "40.24",
+      "pressure": "1011.51",
+      "temperature": "23.16",
+      "timestamp": "1690220319"
+    },
+    "1690220381": {
+      "humidity": "40.41",
+      "pressure": "1011.58",
+      "temperature": "23.01",
+      "timestamp": "1690220381"
+    },
+    "1690220441": {
+      "humidity": "40.60",
+      "pressure": "1011.55",
+      "temperature": "22.86",
+      "timestamp": "1690220441"
+    },
+    "1690220502": {
+      "humidity": "40.70",
+      "pressure": "1011.53",
+      "temperature": "22.73",
+      "timestamp": "1690220502"
+    },
+    "1690220563": {
+      "humidity": "40.88",
+      "pressure": "1011.52",
+      "temperature": "22.58",
+      "timestamp": "1690220563"
+    },
+    "1690220644": {
+      "humidity": "41.16",
+      "pressure": "1011.51",
+      "temperature": "22.43",
+      "timestamp": "1690220644"
+    },
+    "1690220705": {
+      "humidity": "41.19",
+      "pressure": "1011.49",
+      "temperature": "22.36",
+      "timestamp": "1690220705"
+    },
+    "1690220766": {
+      "humidity": "41.37",
+      "pressure": "1011.52",
+      "temperature": "22.26",
+      "timestamp": "1690220766"
+    },
+    "1690220826": {
+      "humidity": "41.56",
+      "pressure": "1011.55",
+      "temperature": "22.16",
+      "timestamp": "1690220826"
+    },
+    "1690220887": {
+      "humidity": "41.70",
+      "pressure": "1011.52",
+      "temperature": "22.07",
+      "timestamp": "1690220887"
+    },
+    "1690220949": {
+      "humidity": "41.83",
+      "pressure": "1011.55",
+      "temperature": "21.99",
+      "timestamp": "1690220949"
+    },
+    "1690221009": {
+      "humidity": "41.94",
+      "pressure": "1011.56",
+      "temperature": "21.90",
+      "timestamp": "1690221009"
+    },
+    "1690221070": {
+      "humidity": "42.05",
+      "pressure": "1011.58",
+      "temperature": "21.81",
+      "timestamp": "1690221070"
+    },
+    "1690221130": {
+      "humidity": "42.18",
+      "pressure": "1011.58",
+      "temperature": "21.73",
+      "timestamp": "1690221130"
+    },
+    "1690221190": {
+      "humidity": "42.30",
+      "pressure": "1011.62",
+      "temperature": "21.63",
+      "timestamp": "1690221190"
+    },
+    "1690221251": {
+      "humidity": "42.50",
+      "pressure": "1011.52",
+      "temperature": "21.55",
+      "timestamp": "1690221251"
+    },
+    "1690221311": {
+      "humidity": "42.67",
+      "pressure": "1011.52",
+      "temperature": "21.48",
+      "timestamp": "1690221311"
+    },
+    "1690221373": {
+      "humidity": "42.75",
+      "pressure": "1011.54",
+      "temperature": "21.42",
+      "timestamp": "1690221373"
+    },
+    "1690221452": {
+      "humidity": "42.93",
+      "pressure": "1011.55",
+      "temperature": "21.33",
+      "timestamp": "1690221452"
+    },
+    "1690221514": {
+      "humidity": "43.00",
+      "pressure": "1011.53",
+      "temperature": "21.31",
+      "timestamp": "1690221514"
+    },
+    "1690221574": {
+      "humidity": "43.03",
+      "pressure": "1011.54",
+      "temperature": "21.26",
+      "timestamp": "1690221574"
+    },
+    "1690221635": {
+      "humidity": "43.18",
+      "pressure": "1011.56",
+      "temperature": "21.20",
+      "timestamp": "1690221635"
+    },
+    "1690221785": {
+      "humidity": "43.43",
+      "pressure": "1011.60",
+      "temperature": "21.10",
+      "timestamp": "1690221785"
+    },
+    "1690221939": {
+      "humidity": "43.64",
+      "pressure": "1011.66",
+      "temperature": "21.04",
+      "timestamp": "1690221939"
+    },
+    "1690222000": {
+      "humidity": "43.74",
+      "pressure": "1011.67",
+      "temperature": "21.02",
+      "timestamp": "1690222000"
+    },
+    "1690222061": {
+      "humidity": "43.82",
+      "pressure": "1011.66",
+      "temperature": "20.98",
+      "timestamp": "1690222061"
+    },
+    "1690222122": {
+      "humidity": "43.93",
+      "pressure": "1011.55",
+      "temperature": "20.92",
+      "timestamp": "1690222122"
+    },
+    "1690222182": {
+      "humidity": "44.03",
+      "pressure": "1011.60",
+      "temperature": "20.88",
+      "timestamp": "1690222182"
+    },
+    "1690222243": {
+      "humidity": "44.11",
+      "pressure": "1011.59",
+      "temperature": "20.84",
+      "timestamp": "1690222243"
+    },
+    "1690222304": {
+      "humidity": "44.21",
+      "pressure": "1011.62",
+      "temperature": "20.79",
+      "timestamp": "1690222304"
+    },
+    "1690222365": {
+      "humidity": "44.32",
+      "pressure": "1011.65",
+      "temperature": "20.75",
+      "timestamp": "1690222365"
+    },
+    "1690222425": {
+      "humidity": "44.40",
+      "pressure": "1011.69",
+      "temperature": "20.71",
+      "timestamp": "1690222425"
+    },
+    "1690222489": {
+      "humidity": "44.39",
+      "pressure": "1011.66",
+      "temperature": "20.67",
+      "timestamp": "1690222489"
+    },
+    "1690222569": {
+      "humidity": "44.44",
+      "pressure": "1011.68",
+      "temperature": "20.65",
+      "timestamp": "1690222569"
+    },
+    "1690222630": {
+      "humidity": "44.51",
+      "pressure": "1011.68",
+      "temperature": "20.62",
+      "timestamp": "1690222630"
+    },
+    "1690222691": {
+      "humidity": "44.61",
+      "pressure": "1011.73",
+      "temperature": "20.60",
+      "timestamp": "1690222691"
+    },
+    "1690222753": {
+      "humidity": "44.57",
+      "pressure": "1011.73",
+      "temperature": "20.55",
+      "timestamp": "1690222753"
+    },
+    "1690222813": {
+      "humidity": "44.65",
+      "pressure": "1011.71",
+      "temperature": "20.51",
+      "timestamp": "1690222813"
+    },
+    "1690222874": {
+      "humidity": "44.74",
+      "pressure": "1011.74",
+      "temperature": "20.47",
+      "timestamp": "1690222874"
+    },
+    "1690222935": {
+      "humidity": "44.81",
+      "pressure": "1011.64",
+      "temperature": "20.44",
+      "timestamp": "1690222935"
+    },
+    "1690222996": {
+      "humidity": "44.86",
+      "pressure": "1011.64",
+      "temperature": "20.41",
+      "timestamp": "1690222996"
+    },
+    "1690223056": {
+      "humidity": "44.90",
+      "pressure": "1011.63",
+      "temperature": "20.38",
+      "timestamp": "1690223056"
+    },
+    "1690223236": {
+      "humidity": "45.06",
+      "pressure": "1011.64",
+      "temperature": "20.40",
+      "timestamp": "1690223236"
+    },
+    "1690223382": {
+      "humidity": "45.12",
+      "pressure": "1011.70",
+      "temperature": "20.41",
+      "timestamp": "1690223382"
+    },
+    "1690223443": {
+      "humidity": "45.14",
+      "pressure": "1011.68",
+      "temperature": "20.40",
+      "timestamp": "1690223443"
+    },
+    "1690223504": {
+      "humidity": "45.24",
+      "pressure": "1011.66",
+      "temperature": "20.38",
+      "timestamp": "1690223504"
+    },
+    "1690223566": {
+      "humidity": "45.26",
+      "pressure": "1011.64",
+      "temperature": "20.35",
+      "timestamp": "1690223566"
+    },
+    "1690223749": {
+      "humidity": "45.30",
+      "pressure": "1011.66",
+      "temperature": "20.37",
+      "timestamp": "1690223749"
+    },
+    "1690223810": {
+      "humidity": "45.33",
+      "pressure": "1011.61",
+      "temperature": "20.36",
+      "timestamp": "1690223810"
+    },
+    "1690223871": {
+      "humidity": "45.36",
+      "pressure": "1011.61",
+      "temperature": "20.34",
+      "timestamp": "1690223871"
+    },
+    "1690223931": {
+      "humidity": "45.37",
+      "pressure": "1011.65",
+      "temperature": "20.31",
+      "timestamp": "1690223931"
+    },
+    "1690223992": {
+      "humidity": "45.43",
+      "pressure": "1011.67",
+      "temperature": "20.28",
+      "timestamp": "1690223992"
+    },
+    "1690224053": {
+      "humidity": "45.48",
+      "pressure": "1011.66",
+      "temperature": "20.26",
+      "timestamp": "1690224053"
+    },
+    "1690224114": {
+      "humidity": "45.56",
+      "pressure": "1011.64",
+      "temperature": "20.23",
+      "timestamp": "1690224114"
+    },
+    "1690224174": {
+      "humidity": "45.62",
+      "pressure": "1011.61",
+      "temperature": "20.21",
+      "timestamp": "1690224174"
+    },
+    "1690224252": {
+      "humidity": "45.69",
+      "pressure": "1011.64",
+      "temperature": "20.20",
+      "timestamp": "1690224252"
+    },
+    "1690224314": {
+      "humidity": "45.73",
+      "pressure": "1011.60",
+      "temperature": "20.19",
+      "timestamp": "1690224314"
+    },
+    "1690224564": {
+      "humidity": "45.60",
+      "pressure": "1011.54",
+      "temperature": "20.36",
+      "timestamp": "1690224564"
+    },
+    "1690224625": {
+      "humidity": "45.55",
+      "pressure": "1011.52",
+      "temperature": "20.37",
+      "timestamp": "1690224625"
+    },
+    "1690224686": {
+      "humidity": "45.51",
+      "pressure": "1011.54",
+      "temperature": "20.34",
+      "timestamp": "1690224686"
+    },
+    "1690224746": {
+      "humidity": "45.56",
+      "pressure": "1011.48",
+      "temperature": "20.29",
+      "timestamp": "1690224746"
+    },
+    "1690224807": {
+      "humidity": "45.59",
+      "pressure": "1011.51",
+      "temperature": "20.26",
+      "timestamp": "1690224807"
+    },
+    "1690224867": {
+      "humidity": "45.67",
+      "pressure": "1011.52",
+      "temperature": "20.23",
+      "timestamp": "1690224867"
+    },
+    "1690224935": {
+      "humidity": "45.74",
+      "pressure": "1011.52",
+      "temperature": "20.19",
+      "timestamp": "1690224935"
+    },
+    "1690225002": {
+      "humidity": "45.82",
+      "pressure": "1011.55",
+      "temperature": "20.18",
+      "timestamp": "1690225002"
+    },
+    "1690225064": {
+      "humidity": "45.83",
+      "pressure": "1011.56",
+      "temperature": "20.17",
+      "timestamp": "1690225064"
+    },
+    "1690225124": {
+      "humidity": "45.86",
+      "pressure": "1011.56",
+      "temperature": "20.15",
+      "timestamp": "1690225124"
+    },
+    "1690225185": {
+      "humidity": "45.92",
+      "pressure": "1011.58",
+      "temperature": "20.12",
+      "timestamp": "1690225185"
+    },
+    "1690225273": {
+      "humidity": "45.95",
+      "pressure": "1011.57",
+      "temperature": "20.08",
+      "timestamp": "1690225273"
+    },
+    "1690225335": {
+      "humidity": "45.93",
+      "pressure": "1011.51",
+      "temperature": "20.11",
+      "timestamp": "1690225335"
+    },
+    "1690225396": {
+      "humidity": "45.95",
+      "pressure": "1011.54",
+      "temperature": "20.11",
+      "timestamp": "1690225396"
+    },
+    "1690225458": {
+      "humidity": "45.97",
+      "pressure": "1011.54",
+      "temperature": "20.09",
+      "timestamp": "1690225458"
+    },
+    "1690225519": {
+      "humidity": "46.01",
+      "pressure": "1011.54",
+      "temperature": "20.08",
+      "timestamp": "1690225519"
+    },
+    "1690225625": {
+      "humidity": "45.98",
+      "pressure": "1011.50",
+      "temperature": "20.14",
+      "timestamp": "1690225625"
+    },
+    "1690225686": {
+      "humidity": "45.98",
+      "pressure": "1011.47",
+      "temperature": "20.14",
+      "timestamp": "1690225686"
+    },
+    "1690225746": {
+      "humidity": "46.00",
+      "pressure": "1011.48",
+      "temperature": "20.13",
+      "timestamp": "1690225746"
+    },
+    "1690225807": {
+      "humidity": "46.01",
+      "pressure": "1011.44",
+      "temperature": "20.12",
+      "timestamp": "1690225807"
+    },
+    "1690225867": {
+      "humidity": "46.03",
+      "pressure": "1011.42",
+      "temperature": "20.11",
+      "timestamp": "1690225867"
+    },
+    "1690225928": {
+      "humidity": "46.13",
+      "pressure": "1011.45",
+      "temperature": "20.12",
+      "timestamp": "1690225928"
+    },
+    "1690225988": {
+      "humidity": "46.16",
+      "pressure": "1011.39",
+      "temperature": "20.14",
+      "timestamp": "1690225988"
+    },
+    "1690226048": {
+      "humidity": "46.18",
+      "pressure": "1011.41",
+      "temperature": "20.15",
+      "timestamp": "1690226048"
+    },
+    "1690226130": {
+      "humidity": "46.21",
+      "pressure": "1011.44",
+      "temperature": "20.22",
+      "timestamp": "1690226130"
+    },
+    "1690226190": {
+      "humidity": "46.20",
+      "pressure": "1011.43",
+      "temperature": "20.25",
+      "timestamp": "1690226190"
+    },
+    "1690226253": {
+      "humidity": "46.18",
+      "pressure": "1011.36",
+      "temperature": "20.28",
+      "timestamp": "1690226253"
+    },
+    "1690226313": {
+      "humidity": "46.15",
+      "pressure": "1011.36",
+      "temperature": "20.31",
+      "timestamp": "1690226313"
+    },
+    "1690226373": {
+      "humidity": "46.16",
+      "pressure": "1011.41",
+      "temperature": "20.33",
+      "timestamp": "1690226373"
+    },
+    "1690226434": {
+      "humidity": "46.20",
+      "pressure": "1011.45",
+      "temperature": "20.37",
+      "timestamp": "1690226434"
+    },
+    "1690226494": {
+      "humidity": "46.19",
+      "pressure": "1011.45",
+      "temperature": "20.40",
+      "timestamp": "1690226494"
+    },
+    "1690226555": {
+      "humidity": "46.15",
+      "pressure": "1011.38",
+      "temperature": "20.42",
+      "timestamp": "1690226555"
+    },
+    "1690226615": {
+      "humidity": "46.20",
+      "pressure": "1011.42",
+      "temperature": "20.48",
+      "timestamp": "1690226615"
+    },
+    "1690226676": {
+      "humidity": "46.19",
+      "pressure": "1011.40",
+      "temperature": "20.52",
+      "timestamp": "1690226676"
+    },
+    "1690226767": {
+      "humidity": "46.16",
+      "pressure": "1011.45",
+      "temperature": "20.57",
+      "timestamp": "1690226767"
+    },
+    "1690226828": {
+      "humidity": "46.02",
+      "pressure": "1011.44",
+      "temperature": "20.63",
+      "timestamp": "1690226828"
+    },
+    "1690226890": {
+      "humidity": "45.87",
+      "pressure": "1011.44",
+      "temperature": "20.65",
+      "timestamp": "1690226890"
+    },
+    "1690226950": {
+      "humidity": "45.86",
+      "pressure": "1011.43",
+      "temperature": "20.65",
+      "timestamp": "1690226950"
+    },
+    "1690227011": {
+      "humidity": "45.79",
+      "pressure": "1011.43",
+      "temperature": "20.64",
+      "timestamp": "1690227011"
+    },
+    "1690227071": {
+      "humidity": "45.72",
+      "pressure": "1011.40",
+      "temperature": "20.63",
+      "timestamp": "1690227071"
+    },
+    "1690227131": {
+      "humidity": "45.73",
+      "pressure": "1011.49",
+      "temperature": "20.61",
+      "timestamp": "1690227131"
+    },
+    "1690227196": {
+      "humidity": "45.68",
+      "pressure": "1011.47",
+      "temperature": "20.59",
+      "timestamp": "1690227196"
+    },
+    "1690227273": {
+      "humidity": "45.55",
+      "pressure": "1011.43",
+      "temperature": "20.60",
+      "timestamp": "1690227273"
+    },
+    "1690227333": {
+      "humidity": "45.49",
+      "pressure": "1011.49",
+      "temperature": "20.60",
+      "timestamp": "1690227333"
+    },
+    "1690227412": {
+      "humidity": "45.37",
+      "pressure": "1011.46",
+      "temperature": "20.59",
+      "timestamp": "1690227412"
+    },
+    "1690227472": {
+      "humidity": "45.38",
+      "pressure": "1011.48",
+      "temperature": "20.59",
+      "timestamp": "1690227472"
+    },
+    "1690227532": {
+      "humidity": "45.39",
+      "pressure": "1011.53",
+      "temperature": "20.57",
+      "timestamp": "1690227532"
+    },
+    "1690227593": {
+      "humidity": "45.40",
+      "pressure": "1011.48",
+      "temperature": "20.54",
+      "timestamp": "1690227593"
+    },
+    "1690227653": {
+      "humidity": "45.41",
+      "pressure": "1011.47",
+      "temperature": "20.53",
+      "timestamp": "1690227653"
+    },
+    "1690227714": {
+      "humidity": "45.39",
+      "pressure": "1011.53",
+      "temperature": "20.52",
+      "timestamp": "1690227714"
+    },
+    "1690227774": {
+      "humidity": "45.37",
+      "pressure": "1011.51",
+      "temperature": "20.51",
+      "timestamp": "1690227774"
+    },
+    "1690227835": {
+      "humidity": "45.39",
+      "pressure": "1011.54",
+      "temperature": "20.50",
+      "timestamp": "1690227835"
+    },
+    "1690227904": {
+      "humidity": "45.38",
+      "pressure": "1011.55",
+      "temperature": "20.50",
+      "timestamp": "1690227904"
+    },
+    "1690227965": {
+      "humidity": "45.34",
+      "pressure": "1011.52",
+      "temperature": "20.50",
+      "timestamp": "1690227965"
+    },
+    "1690228025": {
+      "humidity": "45.39",
+      "pressure": "1011.54",
+      "temperature": "20.50",
+      "timestamp": "1690228025"
+    },
+    "1690228086": {
+      "humidity": "45.37",
+      "pressure": "1011.52",
+      "temperature": "20.50",
+      "timestamp": "1690228086"
+    },
+    "1690228147": {
+      "humidity": "45.41",
+      "pressure": "1011.50",
+      "temperature": "20.50",
+      "timestamp": "1690228147"
+    },
+    "1690228207": {
+      "humidity": "45.40",
+      "pressure": "1011.50",
+      "temperature": "20.49",
+      "timestamp": "1690228207"
+    },
+    "1690228268": {
+      "humidity": "45.39",
+      "pressure": "1011.51",
+      "temperature": "20.49",
+      "timestamp": "1690228268"
+    },
+    "1690228330": {
+      "humidity": "45.41",
+      "pressure": "1011.46",
+      "temperature": "20.49",
+      "timestamp": "1690228330"
+    },
+    "1690228391": {
+      "humidity": "45.45",
+      "pressure": "1011.53",
+      "temperature": "20.51",
+      "timestamp": "1690228391"
+    },
+    "1690228452": {
+      "humidity": "45.42",
+      "pressure": "1011.50",
+      "temperature": "20.51",
+      "timestamp": "1690228452"
+    },
+    "1690228556": {
+      "humidity": "45.39",
+      "pressure": "1011.53",
+      "temperature": "20.59",
+      "timestamp": "1690228556"
+    },
+    "1690228617": {
+      "humidity": "45.46",
+      "pressure": "1011.50",
+      "temperature": "20.63",
+      "timestamp": "1690228617"
+    },
+    "1690228677": {
+      "humidity": "45.53",
+      "pressure": "1011.45",
+      "temperature": "20.64",
+      "timestamp": "1690228677"
+    },
+    "1690228738": {
+      "humidity": "45.43",
+      "pressure": "1011.48",
+      "temperature": "20.65",
+      "timestamp": "1690228738"
+    },
+    "1690228798": {
+      "humidity": "45.41",
+      "pressure": "1011.47",
+      "temperature": "20.65",
+      "timestamp": "1690228798"
+    },
+    "1690228862": {
+      "humidity": "45.43",
+      "pressure": "1011.49",
+      "temperature": "20.66",
+      "timestamp": "1690228862"
+    },
+    "1690228922": {
+      "humidity": "45.44",
+      "pressure": "1011.50",
+      "temperature": "20.68",
+      "timestamp": "1690228922"
+    },
+    "1690228983": {
+      "humidity": "45.43",
+      "pressure": "1011.48",
+      "temperature": "20.70",
+      "timestamp": "1690228983"
+    },
+    "1690229043": {
+      "humidity": "45.44",
+      "pressure": "1011.48",
+      "temperature": "20.71",
+      "timestamp": "1690229043"
+    },
+    "1690229105": {
+      "humidity": "45.39",
+      "pressure": "1011.47",
+      "temperature": "20.72",
+      "timestamp": "1690229105"
+    },
+    "1690229165": {
+      "humidity": "45.42",
+      "pressure": "1011.46",
+      "temperature": "20.73",
+      "timestamp": "1690229165"
+    },
+    "1690229226": {
+      "humidity": "45.40",
+      "pressure": "1011.48",
+      "temperature": "20.73",
+      "timestamp": "1690229226"
+    },
+    "1690229290": {
+      "humidity": "45.42",
+      "pressure": "1011.51",
+      "temperature": "20.72",
+      "timestamp": "1690229290"
+    },
+    "1690229354": {
+      "humidity": "45.44",
+      "pressure": "1011.46",
+      "temperature": "20.72",
+      "timestamp": "1690229354"
+    },
+    "1690229414": {
+      "humidity": "45.44",
+      "pressure": "1011.54",
+      "temperature": "20.72",
+      "timestamp": "1690229414"
+    },
+    "1690229474": {
+      "humidity": "45.43",
+      "pressure": "1011.56",
+      "temperature": "20.73",
+      "timestamp": "1690229474"
+    },
+    "1690229538": {
+      "humidity": "45.40",
+      "pressure": "1011.58",
+      "temperature": "20.72",
+      "timestamp": "1690229538"
+    },
+    "1690229598": {
+      "humidity": "45.37",
+      "pressure": "1011.58",
+      "temperature": "20.71",
+      "timestamp": "1690229598"
+    },
+    "1690229659": {
+      "humidity": "45.36",
+      "pressure": "1011.55",
+      "temperature": "20.71",
+      "timestamp": "1690229659"
+    },
+    "1690229723": {
+      "humidity": "45.37",
+      "pressure": "1011.55",
+      "temperature": "20.71",
+      "timestamp": "1690229723"
+    },
+    "1690229783": {
+      "humidity": "45.37",
+      "pressure": "1011.55",
+      "temperature": "20.73",
+      "timestamp": "1690229783"
+    },
+    "1690229847": {
+      "humidity": "45.36",
+      "pressure": "1011.59",
+      "temperature": "20.74",
+      "timestamp": "1690229847"
+    },
+    "1690229914": {
+      "humidity": "45.30",
+      "pressure": "1011.60",
+      "temperature": "20.74",
+      "timestamp": "1690229914"
+    },
+    "1690229978": {
+      "humidity": "45.28",
+      "pressure": "1011.62",
+      "temperature": "20.75",
+      "timestamp": "1690229978"
+    },
+    "1690230042": {
+      "humidity": "45.26",
+      "pressure": "1011.63",
+      "temperature": "20.76",
+      "timestamp": "1690230042"
+    },
+    "1690230107": {
+      "humidity": "45.19",
+      "pressure": "1011.61",
+      "temperature": "20.77",
+      "timestamp": "1690230107"
+    },
+    "1690230171": {
+      "humidity": "45.17",
+      "pressure": "1011.63",
+      "temperature": "20.79",
+      "timestamp": "1690230171"
+    },
+    "1690230235": {
+      "humidity": "45.17",
+      "pressure": "1011.62",
+      "temperature": "20.81",
+      "timestamp": "1690230235"
+    },
+    "1690230295": {
+      "humidity": "45.15",
+      "pressure": "1011.61",
+      "temperature": "20.83",
+      "timestamp": "1690230295"
+    },
+    "1690230360": {
+      "humidity": "45.12",
+      "pressure": "1011.65",
+      "temperature": "20.83",
+      "timestamp": "1690230360"
+    },
+    "1690230424": {
+      "humidity": "45.07",
+      "pressure": "1011.65",
+      "temperature": "20.83",
+      "timestamp": "1690230424"
+    },
+    "1690230484": {
+      "humidity": "45.04",
+      "pressure": "1011.62",
+      "temperature": "20.83",
+      "timestamp": "1690230484"
+    },
+    "1690230548": {
+      "humidity": "45.02",
+      "pressure": "1011.63",
+      "temperature": "20.82",
+      "timestamp": "1690230548"
+    },
+    "1690230612": {
+      "humidity": "45.02",
+      "pressure": "1011.68",
+      "temperature": "20.81",
+      "timestamp": "1690230612"
+    },
+    "1690230673": {
+      "humidity": "45.03",
+      "pressure": "1011.65",
+      "temperature": "20.79",
+      "timestamp": "1690230673"
+    },
+    "1690230733": {
+      "humidity": "45.00",
+      "pressure": "1011.66",
+      "temperature": "20.78",
+      "timestamp": "1690230733"
+    },
+    "1690230793": {
+      "humidity": "45.01",
+      "pressure": "1011.65",
+      "temperature": "20.77",
+      "timestamp": "1690230793"
+    },
+    "1690230870": {
+      "humidity": "45.02",
+      "pressure": "1011.62",
+      "temperature": "20.75",
+      "timestamp": "1690230870"
+    },
+    "1690230931": {
+      "humidity": "45.01",
+      "pressure": "1011.66",
+      "temperature": "20.77",
+      "timestamp": "1690230931"
+    },
+    "1690230996": {
+      "humidity": "44.98",
+      "pressure": "1011.67",
+      "temperature": "20.76",
+      "timestamp": "1690230996"
+    }
+  }
+}

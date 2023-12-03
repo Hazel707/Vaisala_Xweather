@@ -1,0 +1,88 @@
+{
+  "readings": {
+    "1690480203": {
+      "humidity": "31.13",
+      "pressure": "1017.59",
+      "temperature": "30.18",
+      "timestamp": "1690480203"
+    },
+    "1690480793": {
+      "humidity": "31.30",
+      "pressure": "1017.45",
+      "temperature": "29.91",
+      "timestamp": "1690480793"
+    },
+    "1690483595": {
+      "humidity": "27.36",
+      "pressure": "1017.38",
+      "temperature": "32.84",
+      "timestamp": "1690483595"
+    },
+    "1690483677": {
+      "humidity": "27.57",
+      "pressure": "1017.33",
+      "temperature": "32.26",
+      "timestamp": "1690483677"
+    },
+    "1690483833": {
+      "humidity": "27.94",
+      "pressure": "1017.35",
+      "temperature": "31.73",
+      "timestamp": "1690483833"
+    },
+    "1690483897": {
+      "humidity": "28.71",
+      "pressure": "1017.35",
+      "temperature": "31.35",
+      "timestamp": "1690483897"
+    },
+    "1690483975": {
+      "humidity": "28.90",
+      "pressure": "1017.38",
+      "temperature": "30.96",
+      "timestamp": "1690483975"
+    },
+    "1690484049": {
+      "humidity": "29.60",
+      "pressure": "1017.32",
+      "temperature": "30.71",
+      "timestamp": "1690484049"
+    },
+    "1690484198": {
+      "humidity": "30.14",
+      "pressure": "1017.33",
+      "temperature": "30.41",
+      "timestamp": "1690484198"
+    },
+    "1690484262": {
+      "humidity": "30.27",
+      "pressure": "1017.30",
+      "temperature": "30.27",
+      "timestamp": "1690484262"
+    },
+    "1690484324": {
+      "humidity": "30.50",
+      "pressure": "1017.41",
+      "temperature": "30.12",
+      "timestamp": "1690484324"
+    },
+    "1690484388": {
+      "humidity": "30.70",
+      "pressure": "1017.28",
+      "temperature": "29.95",
+      "timestamp": "1690484388"
+    },
+    "1690484453": {
+      "humidity": "31.00",
+      "pressure": "1017.29",
+      "temperature": "29.88",
+      "timestamp": "1690484453"
+    },
+    "1691085140": {
+      "humidity": "33.83",
+      "pressure": "1018.89",
+      "temperature": "30.59",
+      "timestamp": "1691085140"
+    }
+  }
+}
